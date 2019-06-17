@@ -1,6 +1,6 @@
 <h1>Learning React: A Hands-On Guide to Building Web Applications Using React and Redux, Second edition</h1>
 
-Chapter 17: Creating a Sliding Menu in React
+Chapter 17: Avoiding Unnecessary Renders in React
 
 In this chapter, I learned how to limit the calls of .render() to improve performance
 
